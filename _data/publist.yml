@@ -4,12 +4,12 @@
   year: 2021
   arXiv: 2110.02457
 
-- title: GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING
+- title: GDA-AM ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING
   authors: He, Huan and Zhao, Shifan and Xi, Yuanzhe and Ho, Joyce and Saad, Yousef
   display: <b>Accepted</b>, International Conference on Learning Representations
   year: 2021
 
-- title: AGE: Enhancing the Convergence on GANs using Alternating extra-gradient with Gradient Extrapolation
+- title: AGE Enhancing the Convergence on GANs using Alternating extra-gradient with Gradient Extrapolation
   authors: He, Huan and Zhao, Shifan and Xi, Yuanzhe and Ho, Joyce
   display: <b>Accepted</b>, NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications
   year: 2021
@@ -21,7 +21,7 @@
 
 
 
-- title: Discrete Lie flow: A measure controllable parameterization method
+- title: Discrete Lie flow A measure controllable parameterization method
   authors: Su, Kehua and Li, Chenchen and Zhao, Shifan and Lei, Na and Gu, Xianfeng
   display: <b>Accepted</b>, Computer Aided Geometric Design
   year: 2019
