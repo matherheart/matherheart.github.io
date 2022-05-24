@@ -1,19 +1,33 @@
-- name: Dr. Ethan Pickering
-  photo: Ethan_smile_close.JPG
-  info: Postdoctoral Associate
-  email: pickering@mit.edu
-  github: https://github.com/ethan-pickering
-  researchgate: https://www.researchgate.net/profile/Ethan_Pickering
-  scholar: https://scholar.google.com/citations?user=q3KI3-0AAAAJ&hl=en
-  cv: https://github.com/ethan-pickering/cv/blob/master/Ethan_Pickering_Curriculum_Vitae.pdf
-  number_educ: 5
-  education1: (2021-  ) Postdoctoral Scholar in Mechanical Engineering, MIT (with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a>)
-  education2: (2016-2021) Ph.D. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education3: (2018) M.S. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education4: (2016) M.S. Mechanical Engineering, Case Western Reserve University (with <a href="https://engineering.dartmouth.edu/people/faculty/alexis-abramson" target="_blank">Alexis Abramson</a> (now at Dartmouth) and <a href="https://engineering.case.edu/centers/sdle/roger-french" target="_blank">Roger French</a>)
-  education5: (2015) B.S. Mechanical and Aerospace Engineering, Case Western Reserve University
-  education1short: (2021-  ) Postdoc ME, MIT
-  education2short: (2016-2021) Ph.D. ME, Caltech 
-  education3short: (2018) M.S. ME, Caltech 
-  education4short: (2016) M.S. ME, CWRU 
-  education5short: (2015) B.S. MAE, CWRU
+- name: Shifan Zhao
+  photo: Shifan-head.jpg
+  info: Computational Math Phd student, Emory
+  email: szhao89@emory.ed
+  github: https://github.com/matherheart
+  researchgate: https://www.researchgate.net/profile/Shifan-Zhao-3
+  scholar: https://scholar.google.com/citations?user=19pPrh_eZQgC&hl=zh-CN&oi=sra
+  cv: cv/cv.pdf
+  number_educ: 3
+  education1: (2020-) Math Ph.D, Emory (with <a href="https://www.math.emory.edu/home/" target="_blank">Yuanzhe Xi</a>)
+  education2: (2018-20) Math MPhil, HKUST (with <a href="https://www.math.hkust.edu.hk/people/faculty/profile/mafong/" target="_blank">Frederick Fong</a>)
+  education3: (2014-8) Undergraduate, WHU 
+  education1short: (2020- ) Math Ph.D, Emory 
+  education2short: (2018-20) Math MPhil, HKUST 
+  education3short: (2014-18) Math Undergraduate, WHU
+
+
+
+
+
+
+  #<br> <a href="https://xpacc.illinois.edu" target="_blank">XPACC</a> (with <a href="https://sites.usc.edu/hptcl/" target="_blank">Carlos Pantano</a>, <a href="http://acoustics.ae.illinois.edu/" target="_blank">Dan Bodony</a>, <a href="http://jbfreund.mechse.illinois.edu/" target="_blank">Jon Freund</a>)
+  # education4: (2017) Ph.D. Theoretical and Applied Mechanics<br> University of Illinois at Urbana-Champaign (with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Jon Freund</a>)
+  # education5: (2015) M.S. Theoretical and Applied Mechanics<br> University of Illinois at Urbana-Champaign
+  #   <br>(with certificate in <a href="https://cse.illinois.edu/" target="_blank">Computational Science & Engineering</a>)
+  # education6: (2013) B.S. Mechanical Engineering, B.S. Mathematics<br>
+  #   University of Michigan-Dearborn
+  # education1short: (2018- ) Senior Postdoc, Caltech 
+  # education2short: (2019) Visiting Researcher, MIT 
+  # education3short: (2017-8) Postdoc, XPACC 
+  # education4short: (2017) Ph.D. TAM, UIUC 
+  # education5short: (2015) M.S. TAM/CSE, UIUC
+  # education6short: (2013) B.S.+B.S, Michigan
